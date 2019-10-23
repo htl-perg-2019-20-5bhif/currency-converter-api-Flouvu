@@ -1,0 +1,8 @@
+D:\HTL_Perg\5BHIF\MC\currency-converter-api-Flouvu\CurrencyConverter\CurrencyConverterLogic\bin\Debug\netstandard2.1\CurrencyConverterLogic.deps.json
+D:\HTL_Perg\5BHIF\MC\currency-converter-api-Flouvu\CurrencyConverter\CurrencyConverterLogic\bin\Debug\netstandard2.1\CurrencyConverterLogic.dll
+D:\HTL_Perg\5BHIF\MC\currency-converter-api-Flouvu\CurrencyConverter\CurrencyConverterLogic\bin\Debug\netstandard2.1\CurrencyConverterLogic.pdb
+D:\HTL_Perg\5BHIF\MC\currency-converter-api-Flouvu\CurrencyConverter\CurrencyConverterLogic\obj\Debug\netstandard2.1\CurrencyConverterLogic.csprojAssemblyReference.cache
+D:\HTL_Perg\5BHIF\MC\currency-converter-api-Flouvu\CurrencyConverter\CurrencyConverterLogic\obj\Debug\netstandard2.1\CurrencyConverterLogic.AssemblyInfoInputs.cache
+D:\HTL_Perg\5BHIF\MC\currency-converter-api-Flouvu\CurrencyConverter\CurrencyConverterLogic\obj\Debug\netstandard2.1\CurrencyConverterLogic.AssemblyInfo.cs
+D:\HTL_Perg\5BHIF\MC\currency-converter-api-Flouvu\CurrencyConverter\CurrencyConverterLogic\obj\Debug\netstandard2.1\CurrencyConverterLogic.dll
+D:\HTL_Perg\5BHIF\MC\currency-converter-api-Flouvu\CurrencyConverter\CurrencyConverterLogic\obj\Debug\netstandard2.1\CurrencyConverterLogic.pdb

@@ -1,0 +1,98 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETCoreApp,Version=v3.0": {
+      "CurrencyConverterLogic/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.1",
+        "compile": {
+          "bin/placeholder/CurrencyConverterLogic.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/CurrencyConverterLogic.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CurrencyConverterLogic/1.0.0": {
+      "type": "project",
+      "path": "../CurrencyConverterLogic/CurrencyConverterLogic.csproj",
+      "msbuildProject": "../CurrencyConverterLogic/CurrencyConverterLogic.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETCoreApp,Version=v3.0": [
+      "CurrencyConverterLogic >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\adems\\.nuget\\packages\\": {},
+    "D:\\Microsoft\\Xamarin\\NuGet\\": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "D:\\HTL_Perg\\5BHIF\\MC\\currency-converter-api-Flouvu\\CurrencyConverter\\CurrencyConverter\\CurrencyConverter.csproj",
+      "projectName": "CurrencyConverter",
+      "projectPath": "D:\\HTL_Perg\\5BHIF\\MC\\currency-converter-api-Flouvu\\CurrencyConverter\\CurrencyConverter\\CurrencyConverter.csproj",
+      "packagesPath": "C:\\Users\\adems\\.nuget\\packages\\",
+      "outputPath": "D:\\HTL_Perg\\5BHIF\\MC\\currency-converter-api-Flouvu\\CurrencyConverter\\CurrencyConverter\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "D:\\Microsoft\\Xamarin\\NuGet\\",
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\adems\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "netcoreapp3.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "netcoreapp3.0": {
+          "projectReferences": {
+            "D:\\HTL_Perg\\5BHIF\\MC\\currency-converter-api-Flouvu\\CurrencyConverter\\CurrencyConverterLogic\\CurrencyConverterLogic.csproj": {
+              "projectPath": "D:\\HTL_Perg\\5BHIF\\MC\\currency-converter-api-Flouvu\\CurrencyConverter\\CurrencyConverterLogic\\CurrencyConverterLogic.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "netcoreapp3.0": {
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.AspNetCore.App": {
+            "privateAssets": "none"
+          },
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.100-rc1-014190\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}
